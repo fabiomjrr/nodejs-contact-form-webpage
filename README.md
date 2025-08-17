@@ -1,15 +1,15 @@
 ### Fragance Application
-Es una aplicación web con Bootstrap 5 con un formulario funcional hecha con NodeJS, Express y Nodemailer.
+This project is a web application named “Fragance Application,” built using Node.js, Express, and Nodemailer, with a Bootstrap 5 frontend and Handlebars templating engine; it features a functional contact form that enables users to submit inquiries via email—powered by a simple server setup and customizable using npm run dev for development.
 
-Para que funcione necesitas instalar:
+To make it work, you need to install:
 
 <code>npm install</code>
 
-después
+Then
 
 <code>npm i -D nodemon</code>
 
-Para iniciar el servidor puedes usar:
+To start the server, you can use:
 
 <code> npm run dev</code>
 
